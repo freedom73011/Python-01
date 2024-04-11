@@ -1,2 +1,2 @@
-1.getting_Started-Python基礎01\n
-2.時間計算，利用datatine套件\n
+1.getting_Started-Python基礎01\
+2.時間計算，利用datatine套件\
